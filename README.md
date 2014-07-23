@@ -1,4 +1,4 @@
-# Surface Pro 3 Kernel
+# Surface Pro 3 Documentation
 
 Ubuntu Trusty on the Microsoft Surface Pro 3
 
