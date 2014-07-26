@@ -2,6 +2,23 @@
 
 Ubuntu Trusty on the Microsoft Surface Pro 3
 
+## Work in Progress
+
+**Working**
+
+* Type Cover 3 (both keyboard and tracpad)
+* Bluetooth (partially after updating the marvell firmware)
+* Touch
+
+**Not Working**
+
+* Cameras
+
+**Untested**
+
+* MicroSD reader
+* Bluetooth pen
+
 ## Kernel
 
 https://github.com/rubiojr/surface3-kernel
@@ -28,10 +45,12 @@ http://www.reddit.com/r/Ubuntu/comments/26lvqc/ubuntu_on_the_surface_pro_3/
 
 https://bugzilla.kernel.org/show_bug.cgi?id=64811
 
-
 ### Hardware
 
 https://www.ifixit.com/Teardown/Microsoft+Surface+Pro+3+Teardown/26595
+
 http://www.anandtech.com/show/8077/microsoft-surface-pro-3-review
+
 http://www.anandtech.com/show/8037/microsoft-surface-pro-3-hands-on-display-performance-preview
+
 https://origin-www.marvell.com/wireless/avastar/88W8897/ (wifi+bt+nfc chip?)
