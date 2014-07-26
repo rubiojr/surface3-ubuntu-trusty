@@ -6,7 +6,7 @@ Ubuntu Trusty on the Microsoft Surface Pro 3
 
 **Working**
 
-* Type Cover 3 (both keyboard and tracpad)
+* Type Cover 3 (both keyboard and trackpad)
 * Bluetooth (partially after updating the marvell firmware)
 * Touch
 
