@@ -7,9 +7,12 @@ Ubuntu Trusty on the Microsoft Surface Pro 3.
 **Working**
 
 * Type Cover 3 (both keyboard and trackpad).
-* Bluetooth (partially after updating the marvell firmware).
+* Bluetooth
+  - Trusty kernel 3.13: partially after updating the marvell firmware.
+  - Utopic kernel 3.16: fully working after updating the marvell firmware.
 * Touch screen.
 * Built-in microphone, speakers, and headphone jack.
+* Wireless works but is very unstable (both 3.13 and 3.16 kernels).
 
 **Not Working**
 
@@ -55,3 +58,4 @@ http://www.anandtech.com/show/8077/microsoft-surface-pro-3-review
 http://www.anandtech.com/show/8037/microsoft-surface-pro-3-hands-on-display-performance-preview
 
 https://origin-www.marvell.com/wireless/avastar/88W8897/ (wifi+bt+nfc chip?)
+http://wireless.kernel.org/en/users/Drivers/mwifiex
