@@ -1,23 +1,23 @@
 # Surface Pro 3 Documentation
 
-Ubuntu Trusty on the Microsoft Surface Pro 3
+Ubuntu Trusty on the Microsoft Surface Pro 3.
 
 ## Work in Progress
 
 **Working**
 
-* Type Cover 3 (both keyboard and trackpad)
-* Bluetooth (partially after updating the marvell firmware)
-* Touch
+* Type Cover 3 (both keyboard and trackpad).
+* Bluetooth (partially after updating the marvell firmware).
+* Touch screen.
 
 **Not Working**
 
-* Cameras
+* Cameras.
 
 **Untested**
 
-* MicroSD reader
-* Bluetooth pen
+* MicroSD reader.
+* Bluetooth pen.
 
 ## Kernel
 
