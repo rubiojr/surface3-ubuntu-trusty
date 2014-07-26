@@ -9,6 +9,7 @@ Ubuntu Trusty on the Microsoft Surface Pro 3.
 * Type Cover 3 (both keyboard and trackpad).
 * Bluetooth (partially after updating the marvell firmware).
 * Touch screen.
+* Built-in microphone, speakers, and headphone jack.
 
 **Not Working**
 
